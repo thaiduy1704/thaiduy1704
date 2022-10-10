@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nguyen Tran Thai Duy 
+- 👀 I’m interested in web developer
+- 🌱 I’m currently learning ReactJs
+- 📫 Contact me at thaiduy1704gmail.com
